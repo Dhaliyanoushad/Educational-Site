@@ -43,3 +43,8 @@ nav ul li {
   align-items: center;
   justify-content: center;
 }
+
+.dark-nav {
+  background: #212ea0;
+  transition: 0.5s;
+}
