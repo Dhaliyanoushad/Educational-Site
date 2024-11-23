@@ -48,3 +48,18 @@ nav ul li {
   background: #212ea0;
   transition: 0.5s;
 }
+
+.btn.dark-btn {
+  background: #212ea0;
+  color: white;
+}
+
+@media (max-width: 1200px) {
+  .containers {
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+  .btn {
+    padding: 14px 22px;
+  }
+}
