@@ -8,9 +8,8 @@ const Hero = () => {
       <div className="hero-text">
         <h1>We ensure better education for a better world</h1>
         <p>
-          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Adipisci ut
-          iste reiciendis facilis maiores consequuntur provident quibusdam aut
-          sint saepe?
+          At the heart of our mission is a simple but powerful idea: better
+          education leads to a better world.
         </p>
         <button className="btn">
           Explore More <img src={dark_arrow} alt="" className="w-[20px] ml-4" />
