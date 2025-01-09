@@ -2,6 +2,11 @@
 
 This is a sample educational website for **Edusity Campus**, created as a project to learn **React** and **Tailwind CSS**. The site features key sections like a homepage, program details, about us, campus highlights, testimonials, and a contact form.
 
+## Deployment
+
+The site is deployed using **Netlify**. You can view the live demo here:  
+[Edusity Campus Demo](https://eduu-lala.netlify.app/)
+
 ## Purpose
 
 This project was built to explore and practice:
@@ -42,11 +47,6 @@ This project was built to explore and practice:
     ```
 
 4. Open your browser at `http://localhost:3000`.
-
-## Deployment
-
-The site is deployed using **Netlify**. You can view the live demo here:  
-[Edusity Campus Demo](https://eduu-lala.netlify.app/)
 
 ## Lessons Learned
 
